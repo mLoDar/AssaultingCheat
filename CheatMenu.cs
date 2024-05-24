@@ -1,8 +1,8 @@
 namespace AssaultingCheat
 {
-    public partial class Form1 : Form
+    public partial class CheatMenu : Form
     {
-        public Form1()
+        public CheatMenu()
         {
             InitializeComponent();
         }
